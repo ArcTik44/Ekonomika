@@ -214,7 +214,7 @@ ukáže, zda firmy nevyráběly zboží zbytečně a zda najde své zákazníky
           - jednorázová - např. potraviny
           - dlouhodobá - např. auto
 
-	Trhy a jeho zákony
+	# Trhy a jeho zákony
 - Trh - je místo, kde dochází ke směně zboží
 - Zboží - je statek nebo služba určená ke směně na trhu
 - Na trhu se střetává nabídka s poptávkou
@@ -293,16 +293,16 @@ hasiči,...)
 muzea)
        II. Nestátní - nadace, politické strany, církve, občanská sdružení, obecně prospěšné společnosti,...
 
-	Přehled právních forem podnikání
+# Přehled právních forem podnikání
 - Fyzická osoba (FO) - je konkrétní člověk se svými právy a povinnostmi (zaměstnanec, podnikatel,...)
 - Právnická osoba (PO) - je společnost několika lidí (výjimečně pouze jeden člověk), která je oprávněna 
 vstupovat do právních vztahů a jednat svým jménem, má právní i ekonomickou samostatnost
-- Právní formy podnikání FO:
+### Právní formy podnikání FO:
   - Osoby podnikající na základě živnostenského oprávnění
   - Osoby provozující zemědělskou výrobu
   - Osoby podnikající na základě jiného než živnostenského oprávnění, např. lékaři, veterináři, notáři, daňoví
 poradci
-- Právní formy podnikání PO:
+### Právní formy podnikání PO:
   - Podniky zapsané v obchodním rejstříku (OR) se živnostenským oprávněním - obchodní společnosti (v.o.s., 
 k.s., s.r.o., a.s.), družstva, státní podniky, ostatní podniky (např. konsorcia)
   - Podniky zapsané v OR s jiným než živnostenským oprávněním (např. banky)
@@ -570,7 +570,7 @@ doklad o hodnotě majetku
 - Finanční majetek se oceňuje cenou pořízení - bez nákladů souvisejících s pořízením, např. čistá cena kupovaných 
 akcií bez nákladů na dopravu,..
 
-	## Odepisování dlouhodobého majetku
+## Odepisování dlouhodobého majetku
 - Dlouhodobý majetek se postupně optřebovává
 - Opotřebení jsou 2 druhy:
   - fyzické - např. součástky u strojů se používáním ničí, nepoužíváním mohou rezivět
@@ -580,7 +580,7 @@ akcií bez nákladů na dopravu,..
   - rozšířená - opotřebovaný stroj nahradíme strojem výkonějším nebo více stroji
   - zúžená - opotřebovaný stroj nahradíme strojem méně výkonným nebo ho vůbec nenahradíme
 	
-	Reprodukce dlouhodobého majetku
+##	Reprodukce dlouhodobého majetku
 - DM se postupně  opotřebovává, proti opotřebení můžeme postupovat pomocí údržby a 
 oprav (promazávání strojů, zateplovaní budov, izolace, vysušování,...)
 - Morálnímu opotřebování nelze zabránit, můžeme se pouze snažit využít co nejpokrokovější materiály a technologie
@@ -677,7 +677,7 @@ eskontní provizi
   - Z dlouhodobých zdrojů mají být kryté dlouhodobé potřeby
   - Z cizích zdrojů jsou nejvíce využívány bankovní úvěry
 	
-	Činnost podniku
+##	Činnost podniku
 - Mají 2 stránky:
   - Hmotná stránka - uspokojování potřeb zákazníků výrobky a službami
   - Finanční stránka - snaha o dosažení zisku (rentabilitu
@@ -693,7 +693,7 @@ eskontní provizi
 - Jsou hmotné statky, které zatím nebyly použity ke svému účelu (k výrobě nebo prodeji)
 - V podniku vyrovnávají časový nesoulad mezi nákup, výrobou a prodejem a umožňují, aby tyto činnosti probíhaly hospodárně
 
-	Zásobování zahrnuje tyto činnosti:
+	## Zásobování zahrnuje tyto činnosti:
 - pořizování (objednávání) zásob
 - přeprava
 - skladovaní
@@ -811,14 +811,14 @@ dodavatel tak i odběratel)
   - Neodstranitelné
 - Pro uplatnění práv z odpovědnosti musí poškozený vady reklamovat bez zbytečného odkladu ihned po zjištění v záruční době
 
-	Personalistika
+	## Personalistika
 - Personální činnost zahrnují:
   - Přijímání zaměstnanců
   - Odměňování zaměstnanců
   - Péče o zaměstnance
   - Propuštění zaměsnanců
 
-	Přijímání zaměstnanců
+	## Přijímání zaměstnanců
 - Volné zdroje pracovních sil:
   - Nezaměstnaní z úřadu práce
   - Absolventi škol
@@ -835,7 +835,7 @@ dodavatel tak i odběratel)
   - Vyplácí podpory v nezaměstnanosti
   - Organizuje rekvalifikace
 
-	Pracovní smlouva
+	## Pracovní smlouva
 - 3 podstatné náležitosti:
   - Den nástupu do práce
   - Druh práce
@@ -845,17 +845,17 @@ dodavatel tak i odběratel)
   - Sjednaná zkušební doba (max. 3 měsíce, u vedoucích pracovníků 6 měsíců)
 - Pracovní smlouvu musí podepsat obě strany, nejpozději v den nástupu do práce
 
-	Dohody na práce konané v kratším PP:
+	## Dohody na práce konané v kratším PP:
 - Dohoda o provedení práce
 - Dohoda o pracovní činnosti
 
-	Dohoda o provedení práce
+	## Dohoda o provedení práce
 - Uzavírá se na maximálně 300 hodin ročně u jednoho zaměstnavatele
 - Uzavírá se písemně
 - Zaměstnavatel neplatí zdravotní ani sociální pojištění (nad výdělkem 10.000 ,- Kč za měsíc se pojištění musí odvádět)
 - Výdělek je daněn 15% srážkovou daní
 
-	Dohoda o pracovní činnosti
+	## Dohoda o pracovní činnosti
 - Uzavírá se na maximálně 20 hodin týdně
 - Zaměstnavatel má povinnost odvádět za zaměstnance zdravotní a sociální pojištění
 - Uzavírá se písemně
@@ -880,16 +880,16 @@ dodavatel tak i odběratel)
   - Při výpovědi ze strany zaměstnance lze uvést jakékoli důvody nebo i bez udání důvodů
   - Výpověď nemůže dostat: těhotná, osoba pečující o dítě do 3 let věku, zaměstnanec na nemocenské, osoba ve výkonu veřejné funkce
   - Při výpovědi z důvodu reorganizace firmy (místo je zrušeno), má zaměstnanec nárok na odstupné ve výši:
-  - - 1 plat při práci ve firmě do 1 roku, 2 platy při práci do 2 let, 3 platy pro práci delší než 2 roky  
+    - 1 plat při práci ve firmě do 1 roku, 2 platy při práci do 2 let, 3 platy pro práci delší než 2 roky  
   - Např.: 
-  - výpověď podána 12.9
-  - výpovědní lhůta od 1.10.
-  - konec pracovního poměru 30.11.
+    - výpověď podána 12.9
+    - výpovědní lhůta od 1.10.
+    - konec pracovního poměru 30.11.
   ## Okamžité zrušení pracovního poměru (hodinová výpověď)
   - Za zvlášť hrubé porušení pracovní kázně a při odsouzení zaměstnance pro úmyslný trestný čin nepodmíněně na déle než 1 rok
   - Zaměstnanec ji může dát, pokud:
-  - - nedostal do 15 dnů od běžného výplatního termínu zaplacenou mzdu nebo
-  - - pokud podle lékařského posudku nemůže dále konat práci a zaměstnavatel ho v době 15 dnů nepřevedl na jinou vhodnou práci
+    - nedostal do 15 dnů od běžného výplatního termínu zaplacenou mzdu nebo
+    - pokud podle lékařského posudku nemůže dále konat práci a zaměstnavatel ho v době 15 dnů nepřevedl na jinou vhodnou práci
   ## Zrušení pracovního poměru ve zkušební době
   - Písemně oznámit druhé straně 3 dny předem (zkušební doba může trvat max 3 měsíce, u vedoucích manažerů až 6 měsíců)
   - Výpověď nelze dát prvních 14 dní nemoci
@@ -903,11 +903,11 @@ dodavatel tak i odběratel)
 - Vývoj kontroly směřuje k prevenci, tj. k zabránění vzniku nedostatků (chyb)
 ## Členění kontroly:
 - Podle toho, kdo kontrolu provádí:
-- - vnitřní - pracovníci podniku
-- - vnější - hasiči, hygienik, FÚ, ČSSZ,..
+  - vnitřní - pracovníci podniku
+  - vnější - hasiči, hygienik, FÚ, ČSSZ,..
 - Podle místa:
-- - Přímá - pochůzky na pracovišti, inventura
-- - nepřímá - výkazy, hlášení, zprávy, porady
+  - Přímá - pochůzky na pracovišti, inventura
+  - nepřímá - výkazy, hlášení, zprávy, porady
   ## Oceňování výrobních faktorů a produkce
   - Základem pro tvorbu cen v tržním hospodářství je střet nabídky a poptávky a stanovení rovnovážné ceny
   - Tvorba ceny je závislá také na situaci na trhu, zda má firma monopolní postavení nebo je na trhu
@@ -921,27 +921,30 @@ dodavatel tak i odběratel)
   ## Náklady
   - Náklady = peněžní vyjádření spotřeby prostředků, služeb a práce, vynaložených na vytvářené statky a služby
   - Náklady zahrnují:
-  - - spotřebu materiálu, odpisy DM, mzdy, ceny služeb, daně, pokuty, manka, škody,...
+    - spotřebu materiálu, odpisy DM, mzdy, ceny služeb, daně, pokuty, manka, škody,...
 
   ## Členění nákladů
   - Podle nákladových druhů:
-  - - Spotřebované nákupy - materiál, energie, prodané zboží v pořizovací ceně,...
-  - - Služby - opravy a údržba, cestovné,...
-  - - Osobní náklady - mzdy, zdravotní a soc. pojištění
-  - - Odpisy a rezervy
-  - - Ostatní provozní náklady - pokuty, penále, silniční daň,...
-  - - Finanční náklady - úroky, kurzové ztráty,...
-  - - Mimořádné náklady
+    - Spotřebované nákupy - materiál, energie, prodané zboží v pořizovací ceně,...
+    - Služby - opravy a údržba, cestovné,...
+    - Osobní náklady - mzdy, zdravotní a soc. pojištění
+    - Odpisy a rezervy
+    - Ostatní provozní náklady - pokuty, penále, silniční daň,...
+    - Finanční náklady - úroky, kurzové ztráty,...
+    - Mimořádné náklady
   - Podle závislosti na objemu výkonu:
-  - - Fixní (stálé) náklady
-  - při růstu výkonu se jejich celková výše nemění, jejich velikost na jednotku výroby klesá
-  - např. odpisy, nájemné, mzda uklízečky, psotřebovaná energie v kancelářích,...
-  - - Proměnlivé (variabilní) náklady
-  - při změně výkonů se mění (při růstu výkonu se zvyšují, při poklesu se snižují)
+    - Fixní (stálé) náklady
+      - při růstu výkonu se jejich celková výše nemění, jejich velikost na jednotku výroby klesá
+      - např. odpisy, nájemné, mzda uklízečky, psotřebovaná energie v kancelářích,...
+    - Proměnlivé (variabilní) náklady
+      - při změně výkonů se mění (při růstu výkonu se zvyšují, při poklesu se snižují)
   ## Druhy proměnlivých (variabilních) nákladů:
   ### a) proporcionální - mění se přímo úměrně k výkonům, např. náklady na materiál 
+
   ### b) degresivní - zvyšují se pomaleji než rostou výkony, např. sleva při nákupu materiálu ve velkém
+
   ### c) progresivní - zvyšují se rychleji než výkony, např. výplaty za práci přesčas
+
   ## Náklady podle organizačních složek podniku
   - Prvotní náklady - od cizích firem
   - Druhotné náklady - vnitropodnikové (uvnitř naší firmy) mezi oddělením našeho podniku
