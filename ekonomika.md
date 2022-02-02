@@ -1,8 +1,8 @@
-Ekonomie - společenská věda, teorie
-Ekonomika - ekonomická praxe
-Ekonomie - je společenská věda, která popisuje a analyzuje, jak společnost provádí výběr ze vzácných zdrojů, aby uspokojila své potřeby
+- Ekonomie - společenská věda, teorie
+- Ekonomika - ekonomická praxe
+- Ekonomie - je společenská věda, která popisuje a analyzuje, jak společnost provádí výběr ze vzácných zdrojů, aby uspokojila své potřeby
 
-Ekonomie využívá poznatky dalších vědních oborů, např.:
+# Ekonomie využívá poznatky dalších vědních oborů, např.:
  - Matematiky, statistiky
  - Psychologie
  - Sociologie
@@ -15,18 +15,18 @@ Ekonomie využívá poznatky dalších vědních oborů, např.:
  - Ekologie
  - Etiky
 
-	2 základní ekonomické směry
-Mikroekonomie - rodiny
-Makroekonomie - státy
+#	2 základní ekonomické směry
+- Mikroekonomie - rodiny
+- Makroekonomie - státy
 
-	Mikroekonomie
+#	Mikroekonomie
 - Mikroekonomie - ekonomie v malém
 - Zkoumá jednotlivé ekonomické subjekty:
   - Jednotlivce, občany
   - Domácnosti, rodiny
   - Firmy
 
-	Makroekonomie
+#	Makroekonomie
 - Makroekonomie - ekonomie ve velkém
 - Zkoumá makroekonomické ukazatele států jako celků:
   - HDP (hrubý domácí produkt)
@@ -34,35 +34,35 @@ Makroekonomie - státy
   - Inflaci
   - Bilanci zahraničního obchodu
 
-	Ekonomie podle přístupu k předmětu
+#	Ekonomie podle přístupu k předmětu
 - Pozitivní ekonomie - "pouze" popisuje a vysvětluje hospodářskou realitu (stav, v jakém se právě nachází)
 - Normativní ekonomie - ekonomickou realitu hodnotí a formuluje doporučení pro dosažení žádoucího cíle
 (snaží se o zlepšení stavu - nalezení ideální situace)
 
-	Základní ekonomické systémy
+# Základní ekonomické systémy
 - Uspořádání lidské společnosti, které umožní spojit síly lidí a využít dostupné zdroje tak, aby bylo 
 uspokojeno co nejvíce osob
 - Ekonomické systémy se vyvíjejí a mění
 
-	3 základní ekonomické otázky
+	# 3 základní ekonomické otázky
 - Každá společnost si při hledání optimálního ekonomického systému odpovídá na 3 základní otázky:
 - CO? (jaké výrobky a služby potřebujeme)
 - JAK? (jaké technologie a výrobní faktory máme k dispozici)
 - PRO KOHO? (jak se rozdělí to, co bylo vyrobeno)
 
-	Historicky byly popsány 3 typy ekonomických systémů:
+	# Historicky byly popsány 3 typy ekonomických systémů:
 - Zvykový (Tradiční)
 - Příkazový
 - Tržní
 
-	Zvykový sytém
+	# Zvykový sytém
 - Je historicky nejstarším ek. systém
 - Založen na kmenových vztazích a dělbě práce uvnitř uzavřené skupiny lidí
 - Tradičním zdrojem obživy je lov, sběr a zemědělství
 - O důležitých otázkách rozhoduje náčelník, rada starších, šaman na základě tradice přenášené generacemi
 - V současnosti lze tento systém nalézt např. v Africe, Austrálii u kmenů izolovaných od civilizace
 
-	Příkazový systém
+	# Příkazový systém
 - Jeho základem je státní vlastnictví výrobních faktorů a centrální plánování
 - Moc má v rukou úzká skupina lidí (např. politická strana - u nás v letech 1948 - 1989 KSČ, ozbrojená složka)
 která rozhoduje o výrobě i dělbě produktů
@@ -72,7 +72,7 @@ která rozhoduje o výrobě i dělbě produktů
 nezaměstnanost
 - V součastnosti existuje např. na Kubě, v Číně,...
 
-	Tržní systém
+	# Tržní systém
 - Výrobci a spotřebitelé jsou propojeni trhem a tržními zákony ("neviditelnou rukou trhu")
 - Rozhodování jednotlivců ovlivňuje zákon nabídky a poptávky
 - Výhoda - trh funguje sám i bez zásahů vedení, vlád, apod.
@@ -81,12 +81,12 @@ péče o staré lidi a opuštěné děti, o invalidní osoby,...)
 - Tento systém také neřeší různá selhání trhu např. vznik monopolu
 - Z výše uvedených důvodů čistěxtržnísystém neexistuje a je nahrazen 4. typem - smíšeným ekon. systémem
 
-	Potřeby
+#	Potřeby
 - Jsou pociťováný nedostatek nebo nadbytek (jídlo, spánek, zábava, láska,...)
 - Jsou rozmanité a nekonečné
 - Po uspokojení jedné potřeby se vždy objeví potřeba další
 
-	Druhy potřeb
+#	Druhy potřeb
 - Podle jejich povahy:
 - Hmotné 
   - jídlo, oblečení, počítač, dům,...
@@ -96,7 +96,7 @@ péče o staré lidi a opuštěné děti, o invalidní osoby,...)
 - Nezbytné
   - jídlo, spánek,
 
-	Maslowova pyramida potřeb
+#	Maslowova pyramida potřeb
 - Abraham Maslow - americký vědec, který vytvořil teorii potřeb
 - Uspořádal potřeby podle jejich naléhavosti pro člověka do hierarchie, graficky znázorněné pyramidou
 - Na základně jsou potřeby fyziologické (biologické), pro člověka nejdůležitější
