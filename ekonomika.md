@@ -997,4 +997,5 @@ dodavatel tak i odběratel)
 ### 5) Přidělí se na výplatu podílu na zisku (dividendu) nebo na výplatu tantiém neebo na výplatu majitelům firmy, výplaty zaměstnancům
 
 ### 2 cesty ke zvyšování zisku
-### a) zvýšení výnosu - např. větší výroba
+### a) zvýšení výnosu - např. větší výroba a prodej, zvýšení cen
+### b) snížení nákladů - např. úspora mezd, úspora materiálů, úspora energií,...
