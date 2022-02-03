@@ -971,6 +971,30 @@ dodavatel tak i odběratel)
   - Mimořádné výnosy - náhrada škody od pojišťovny
   ### 2) Výnosy podle činnosti
   - Pokud podnik uskutečňuje více činností a v jejich rámci vytváří různé výrobky a služby, je vhodné sledovat výnosy každé činnosti zvlášť, porovnat s jejími náklady a zjistit ziskovost nebo ztrázovost dané činnosti
+
   ### 3) Výnosy podle organizačních složek podniku
   - Prvotní výnosy - od cizích firem za naše výrobky nebo služby
   - Druhotné výnosy - vnitropodnikové (uvnitř naší firmy), mezi odděleními našeho podniku
+ ## Hospodářský výsledek (HV)
+ - Představuje rozdíl mezi výnosy a náklady, tedy mezi tím, co podnik spotřeboval a co vytvořil
+ - HV je nejdůležitější ukazatel, který charakterizuje hospodaření podniku
+ - Výnosy > Náklady => zisk
+ - Výnosy < Náklady => ztráta
+ - Výnosy = Náklady 
+ ### Čistý zisk podnikuna konci účetního období se vykáže v rozvaze a ve výkazu zisku a ztrát (výsledovce)
+- ## Aktiva 
+  - majetek (budovy, stroje, zásoby, peníze,...)
+- ## Pasiva
+  - vlastní zdroje financování (ZK, odpisy,...)
+  - cizí zdroje financování (dary, úvěry, dodavatelé)
+  - čistý zisk
+## Z hrubého zisku musí podnik odvést FÚ daň z příjmu PO
+- Rozdělení a použití čistého zisku:
+### 1) Část se přidělí do zákonného rezervního fondu
+### 2) Na úhradu ztráty z minulých let
+### 3) Přidělení do dalších fondů (FKSP)
+### 4) Ponechá se v podniku jako nerozdělený zisk a jeho použití se nebude účelově vázat
+### 5) Přidělí se na výplatu podílu na zisku (dividendu) nebo na výplatu tantiém neebo na výplatu majitelům firmy, výplaty zaměstnancům
+
+### 2 cesty ke zvyšování zisku
+### a) zvýšení výnosu - např. větší výroba
