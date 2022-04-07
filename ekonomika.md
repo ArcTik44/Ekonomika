@@ -999,3 +999,13 @@ dodavatel tak i odběratel)
 ### 2 cesty ke zvyšování zisku
 ### a) zvýšení výnosu - např. větší výroba a prodej, zvýšení cen
 ### b) snížení nákladů - např. úspora mezd, úspora materiálů, úspora energií,...
+
+## Koncepce
+### Typy koncepcí:
+### a) Výrobní koncepce
+### b) Výrobková koncepce
+### c) Prodejní koncepce
+### d) Marketingová koncepce
+
+## Výrobková koncepce
+
